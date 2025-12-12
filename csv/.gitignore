@@ -1,0 +1,17 @@
+# Ignore environment variables
+.env
+
+# Ignore uploaded files
+uploads/*
+!uploads/.gitkeep
+
+# Ignore CSV storage
+csv/*
+!csv/.gitkeep
+
+# Ignore node modules
+node_modules/
+
+# Ignore logs
+*.log
+logs/
